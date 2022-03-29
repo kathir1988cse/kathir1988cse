@@ -43,6 +43,7 @@ public class LibClass {
 
 		} else {
 			System.out.println("Invalid Browser");
+			System.out.println("Invalid Browser");
 		}
 
 	}
